@@ -1,0 +1,7 @@
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet 2 q1\lab sheet 2 q1\obj\Debug\lab sheet 2 q1.csproj.AssemblyReference.cache
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet 2 q1\lab sheet 2 q1\obj\Debug\lab sheet 2 q1.csproj.CoreCompileInputs.cache
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet 2 q1\lab sheet 2 q1\bin\Debug\lab sheet 2 q1.exe.config
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet 2 q1\lab sheet 2 q1\bin\Debug\lab sheet 2 q1.exe
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet 2 q1\lab sheet 2 q1\bin\Debug\lab sheet 2 q1.pdb
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet 2 q1\lab sheet 2 q1\obj\Debug\lab sheet 2 q1.exe
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet 2 q1\lab sheet 2 q1\obj\Debug\lab sheet 2 q1.pdb
